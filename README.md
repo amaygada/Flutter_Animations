@@ -1,4 +1,4 @@
-# animations
+# Animations
 
 Guide to Flutter Animations
 1. Basic Animation (left to right)
